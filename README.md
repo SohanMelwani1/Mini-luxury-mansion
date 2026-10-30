@@ -1,34 +1,37 @@
 # Mini-luxury-mansion
 My dream mini mansion
 
-The main reason why I created this is because I wanted to explore exterior and interior designing of my own dream mansion
+The main reason why I created this is because I wanted to explore exterior and interior designing of my own dream mansion and that designing homes seems cool to me.
+
+This is a Luxuray mansion which has exterior and interior designs and is extremely detailed, I came Up with this 3d model purely from my imagination and creativity, anyways this is a 2 story building + basic roof + basic garage. I tried making the items as realistic as possible to make it look premium and like my own dream house.
 
 ___
 
 My dream mansion includes:
 
-A billiard board,
+- A billiard board,
 
-4 bed rooms,
+- 4 bed rooms,
 
-1 huge dining table with 8 chairs,
+- 1 huge dining table with 8 chairs,
 
-3 Sofas,
+- 3 Sofas,
 
-1 huge tv with speakers,
+- 1 huge tv with speakers,
 
-2 separate sofas to enjoy the view, 
+- 2 separate sofas to enjoy the view, 
 
-3 cool bathrooms, 
+- 3 cool bathrooms, 
 
-a lift,
+- a lift,
 
-4 desks(work/study),
+- 4 desks(work/study),
 
-a cool garage
+- a cool garage
 
-2 carpets!(Macondo and Hack club)
+- 2 carpets!(Macondo and Hack club)
 ___
+
 
 This is how it looks like
 
@@ -48,10 +51,13 @@ Printed product/final product:
 
 <img width="838" height="635" alt="image" src="https://github.com/user-attachments/assets/60458330-7a84-4707-9531-0f0b169debc6" />
 
+___
 
 BOM:
 
-<img width="557" height="118" alt="image" src="https://github.com/user-attachments/assets/2544b209-7c42-4153-a6ad-4be4bed4b41b" />
+|      BOM       | Material type | Cost (INR) | Cost (USD) | Link |
+|----------------|---------------|------------|------------|------|
+| Filament(34g)  |     PLA       | 34 rupees  |    $0.34   | https://india.numakers.com/products/pla-filament?variant=43307591860393 |
 
 ___
 Assembly instructions:
